@@ -1,1 +1,1 @@
-console.log("battleship game start")
+console.log("battleship game start");
